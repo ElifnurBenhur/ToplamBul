@@ -10,6 +10,7 @@ public Class Toplam{
         b=in.nextInt();
         toplam=a+b;
         System.out.println("Toplam:"+toplam);
+        System.out.println("Computer changes..");
         
         
 }
